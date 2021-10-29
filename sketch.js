@@ -1375,7 +1375,7 @@ function draw() {
                 youLose.visible = true;
             }
             if(variable === 5) {
-                laugh2.setVolume(0.1);
+                laugh2.setVolume(0.3);
                 laugh2.play();
                 impact.play();
             }
@@ -1461,6 +1461,13 @@ function draw() {
         textFont("cursive");
         textSize(20);
         text("To be Continued in:",120,360);
+        fill("lightGreen");
+        textFont("segoe print");
+        textSize(25);
+        text("{A PROMO for Batman: The Joker's Secret will be released on 30th October,2021 at 7:30 pm on the",140,660);
+        text("WhitehatJr Community!!!}",600,690);
+        fill("red");
+        text("Releasing on 31st October, 2021",15,580);
 
         variable2 = variable2 - 0.5;
         part2_logo.visible = true;

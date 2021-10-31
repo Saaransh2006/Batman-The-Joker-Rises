@@ -97,8 +97,8 @@ function setup() {
     variable = 20;
     variable2 = 15;
     variable3 = 15;
-    batmanLife = 100;
-    jokerLife = 100;
+    batmanLife = 1000;
+    jokerLife = 1000;
     jokerSpecial_var = 2;
     batmanSpecial_var = 2;
 

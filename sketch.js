@@ -226,9 +226,9 @@ function setup() {
 
     profile = createInput("https://community.whitehatjr.com/profile/e834b39f-43e8-43d6-8900-e3094a440cfa");
     profile.position(50,470);
-    promolink = createInput("https://community.whitehatjr.com/project/63d80222-e184-472b-9213-6144ba81fda8");
-    promolink.position(970,660);
-
+    promolink = createInput("https://saaransh2006.github.io/Batman-The-Joker-Secret");
+    promolink.position(880,660);
+    
     jokerBulletGroup = createGroup();
     jokerBulletGroup2 = createGroup();
     bulletGroup= createGroup();
@@ -1475,7 +1475,7 @@ function draw() {
         textFont("cursive");
         //text("{A PROMO for Batman: The Joker's Secret will be released on 30th October, 2021 at 7:30 pm on the",140,660);
         //text("WhitehatJr Community!!!}",600,690);
-        text("See a PROMO for Batman: The Joker's Secret :-",310,670);
+        text("Play Batman: The Joker's Secret :-",410,670);
         fill("red");
         textFont("segoe print");
         text("Releasing on 31st October, 2021",15,580);

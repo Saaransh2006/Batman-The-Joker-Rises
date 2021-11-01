@@ -226,7 +226,7 @@ function setup() {
 
     profile = createInput("https://community.whitehatjr.com/profile/e834b39f-43e8-43d6-8900-e3094a440cfa");
     profile.position(50,470);
-    promolink = createInput("https://saaransh2006.github.io/Batman-The-Joker-Secret");
+    promolink = createInput("https://community.whitehatjr.com/project/5a738cb9-da87-4125-8798-7c50ec22f837");
     promolink.position(880,660);
     
     jokerBulletGroup = createGroup();

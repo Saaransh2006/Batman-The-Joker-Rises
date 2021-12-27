@@ -1476,10 +1476,6 @@ function draw() {
         //text("{A PROMO for Batman: The Joker's Secret will be released on 30th October, 2021 at 7:30 pm on the",140,660);
         //text("WhitehatJr Community!!!}",600,690);
         text("Play Batman: The Joker's Secret :-",410,670);
-        fill("red");
-        textFont("segoe print");
-        text("Releasing on 31st October, 2021",15,580);
-        text("at 7:30 pm",130,610);
 
         variable2 = variable2 - 0.5;
         part2_logo.visible = true;

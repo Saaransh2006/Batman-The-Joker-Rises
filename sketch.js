@@ -710,7 +710,7 @@ function draw() {
         textSize(20);
         textStyle(NORMAL);
         text("[Joker, a psychopath, with a warped,",10,360);
-        text("sadistic sense of humor, is one the",10,390);
+        text("sadistic sense of humor, is one of the",10,390);
         text("greatest threats Batman has ever faced. Not",10,420);
         text("only because of his evil laughter is he famous",10,450);
         text("for, his ideology makes him a threat to",10,480);
